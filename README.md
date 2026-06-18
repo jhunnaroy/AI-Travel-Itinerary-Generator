@@ -7,10 +7,10 @@ An AI-powered travel planning application built with the MERN Stack that allows 
 ## 🚀 Live Demo
 
 Frontend:
-https://your-frontend-url.com
+https://ai-travel-itinerary-generator-sihd.onrender.com
 
 Backend:
-https://your-backend-url.com
+https://ai-travel-itinerary-generator-backend-gtt7.onrender.com
 
 ---
 
