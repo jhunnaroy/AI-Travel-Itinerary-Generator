@@ -44,4 +44,6 @@ router.delete(
   deleteItinerary
 );
 
+// Future: Update itinerary (e.g., rename, add notes, etc.)
+
 export default router;
